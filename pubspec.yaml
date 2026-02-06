@@ -1,0 +1,28 @@
+name: waxdata
+description: WaxData - Wolof to French Audio Transcription
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+  pdf: ^3.10.1
+  audioplayers: 6.5.1
+  lucide_icons: 0.257.0
+  avatar_glow: ^2.0.1
+  cherry_toast: ^1.0.0
+  animated_text_kit: ^4.2.2
+  flutter_sound: ^9.3.12
+  permission_handler: ^11.3.0
+  path_provider: ^2.1.2
+  file_picker: ^8.0.0
+
+
+flutter:
+  uses-material-design: true
+  
