@@ -1,16 +1,21 @@
-# frontend
+# WaxData – Frontend Application
 
-A new Flutter project.
+Ce dépôt contient uniquement la partie frontend développée avec Flutter.
 
-## Getting Started
+## État du projet
+Frontend terminé
+Backend non inclus
 
-This project is a starting point for a Flutter application.
+## Fonctionnalités
+- Interface utilisateur moderne
+- Navigation fluide entre les écrans
+- Affichage de données
+- Design responsive
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies
+- Flutter / Dart
+- Material UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Auteur
+Ndeye Aissatou Lô
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
